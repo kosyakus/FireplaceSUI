@@ -11,7 +11,7 @@ import SwiftUI
 struct FireplaceSUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CampfireView()
         }
     }
 }
